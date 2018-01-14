@@ -1,0 +1,189 @@
+/**** Start- Full Site Styling ****/
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	line-height: 150%;
+	padding: 0;
+	margin: 0;
+	background-image: url("../images/concrete_seamless.png");
+	background-repeat: repeat;
+}
+
+body a {
+	text-decoration: none;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #4aaaa5;
+}
+
+h1 {
+	font-size: 2.3em;
+}
+h2 {
+	font-size: 2em;
+}
+h3 {
+	font-size: 1.8em;
+}
+h4 {
+	font-size: 1.5em;
+}
+
+p {
+	padding-bottom: 10px;
+}
+
+
+
+/* Start- Header/Nav Styling */
+
+
+.global-nav-wrapper{
+	text-align: center;
+
+}
+
+.header-wrapper {
+	background-color: #4aaaa5;
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+.header-wrapper h1 {
+	color: #ffffff;
+}
+
+.header-wrapper a, .header-wrapper a:visited {
+	color: #ffffff;
+	font-size: 1.25em;
+	letter-spacing: 2px;
+	padding: 15px 30px;
+}
+
+.top-nav {
+	background-color: #fff;
+}
+
+.top-nav a, .top-nav:visited {
+	color: #777;
+	padding: 0 20px;
+}
+
+.top-nav ul {
+	list-style: none;
+	margin: 0 10px;
+	padding: 0 0 22px 0;
+}
+
+.top-nav li {
+	display: inline-block;
+	border-right: 2px solid #ccc;
+}
+
+.top-nav li:last-child {
+	border-right: none;
+}
+
+/* End- Header/Nav Styling */
+
+
+/* Start- Standard Body Styling */
+
+ #body-wrapper {
+ 	max-width: 960px;
+ 	margin: 50px auto;
+ 	color: #777777;
+ }
+
+
+ #body-wrapper section {
+ 	background-color: #fff;
+ 	border: 1px solid #ccc;
+ 	margin: 0 15px 20px 15px;
+ 	padding: 10px 25px;
+ }
+
+  .body-title {
+ 	font-size: 1.2em;
+ 	border-bottom: 3px solid #ccc;
+ 	padding: 15px 0 20px 10px;
+ 	margin-bottom: 30px;
+ }
+
+  #body-wrapper aside {
+  	text-align: center;
+ 	background-color: #fff;
+ 	border: 1px solid #ccc;
+ 	margin: 0 15px;
+ 	padding: 15px;
+ }
+
+ #body-wrapper aside h3 {
+ 	max-width: 580px;
+ 	font-size: 1.5em;
+ 	padding: 10px 0 20px 0;
+ 	border-bottom: 2px solid #ccc;
+ 	margin: 0 auto 30px auto;
+
+ }
+
+#body-wrapper aside ul {
+	padding: 0;
+}
+
+ #body-wrapper aside ul li {
+ 	list-style: none;
+ 	display: inline-block;
+	margin: 10px;
+ }
+
+ #body-wrapper aside ul li img {
+ 	width: 60px;
+ }
+
+/* End- Standard Body Styling */
+
+
+/* Start- Footer Styling */
+#footer-wrapper{
+ 	margin: 0 auto;
+ 	padding: 30px 0 20px 0;
+ 	border-top: 10px solid #4aaaa5;
+ 	background-color: #666;
+ 	text-align: center;
+ 	color: #777777;
+}
+/* End- Footer Styling */
+
+
+
+
+/**** End- Full Site Styling ****/
+
+
+
+
+
+/* Start- additional for index.html Styling */
+.about-me {
+	
+}
+
+.about-me img {
+	display: block;
+	max-width: 100%;
+	margin: 0 auto 30px;
+}
+
+/* End- additional for index.html Styling */
+
+/* Start- additional for portfolio.html Styling */
+/* End- additional for portfolio.html Styling*/
+
+/* Start- additional for contact.html Styling */
+/* End- additional for contact.html Styling */
+
