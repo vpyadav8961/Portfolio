@@ -113,7 +113,12 @@ p {
  	padding: 15px 0 20px 10px;
  	margin-bottom: 30px;
  }
-
+  .skills {
+ 	font-size: 1.2em;
+ 	border-bottom: 3px solid #ccc;
+ 	padding: 15px 0 20px 10px;
+ 	margin-bottom: 30px;
+ }
   #body-wrapper aside {
   	text-align: center;
  	background-color: #fff;
@@ -177,6 +182,9 @@ p {
 	display: block;
 	max-width: 100%;
 	margin: 0 auto 30px;
+}
+.skills{
+	display: block;
 }
 
 /* End- additional for index.html Styling */
