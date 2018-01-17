@@ -119,6 +119,12 @@ p {
  	padding: 15px 0 20px 10px;
  	margin-bottom: 30px;
  }
+ .education {
+ 	font-size: 1.2em;
+ 	border-bottom: 3px solid #ccc;
+ 	padding: 15px 0 20px 10px;
+ 	margin-bottom: 30px;
+ }
   #body-wrapper aside {
   	text-align: center;
  	background-color: #fff;
@@ -185,6 +191,20 @@ p {
 }
 .skills{
 	display: block;
+}
+.Educat h3{
+	font-size: 1em;
+	font-style: italic;
+	padding-left: 15px;
+	color: black;
+	
+}
+.fa{
+	display: inline-block;
+	text-rendering: auto;
+}
+.fa-phone:before{
+	content: "\f095";
 }
 
 /* End- additional for index.html Styling */
