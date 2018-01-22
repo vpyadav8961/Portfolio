@@ -42,7 +42,10 @@ p {
 
 .global-nav-wrapper{
 	text-align: center;
-
+	overflow: hidden;
+  	position: fixed;
+ 	top: 0;
+ 	width: 100%;
 }
 
 .header-wrapper {
@@ -65,7 +68,8 @@ p {
 }
 
 .top-nav {
-	background-color: #fff;
+	background-color: #263238;
+
 }
 
 .top-nav a, .top-nav:visited {
@@ -95,7 +99,7 @@ p {
 
  #body-wrapper {
  	max-width: 960px;
- 	margin: 50px auto;
+ 	margin: 180px auto;
  	color: #777777;
  }
 
@@ -112,6 +116,9 @@ p {
  	border-bottom: 3px solid #ccc;
  	padding: 15px 0 20px 10px;
  	margin-bottom: 30px;
+ }
+ .contact-detail{
+ 	margin-top:;
  }
   .skills {
  	font-size: 1.2em;
